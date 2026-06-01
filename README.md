@@ -34,7 +34,7 @@ Still learning. Always shipping.
 
 - 🟢 **Learning:** Express.js,MongoDB,PostgreSQL
 - 🔨 **Building:** Social Media Website
-- 👀 **Open to:** internships & junior frontend roles
+- 👀 **Open to:** Internships & other frontend roles
 
 ---
 
