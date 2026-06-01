@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Shawon Chowdhury 👋
 
-**Junior Frontend Developer** · Building things with React & Next.js  
+**Frontend Developer** · Building things with React & Next.js  
 Open to opportunities · Learning every day
 
 </div>
@@ -12,7 +12,7 @@ Open to opportunities · Learning every day
 
 ## About me
 
-I'm a junior frontend developer who loves turning ideas into clean, working interfaces.  
+I'm a frontend developer who loves turning ideas into clean, working interfaces.  
 I write HTML, CSS, JavaScript — and I'm getting comfortable with React, Next.js, and Tailwind.  
 Still learning. Always shipping.
 
@@ -32,8 +32,8 @@ Still learning. Always shipping.
 
 ## Currently
 
-- 🟢 **Learning:** Next.js App Router + TypeScript basics
-- 🔨 **Building:** my personal portfolio site
+- 🟢 **Learning:** Backend(Express,MongoDB),PostgreSQL
+- 🔨 **Building:** Social Media Website
 - 👀 **Open to:** internships & junior frontend roles
 
 ---
@@ -43,7 +43,7 @@ Still learning. Always shipping.
 ```js
 const me = {
   name: "Your Name",
-  role: "Junior Frontend Developer",
+  role: "Frontend Developer",
   stack: ["HTML", "CSS", "JS", "React", "Next.js", "Tailwind"],
   available: true, // hire me!
 };
