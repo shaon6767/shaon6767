@@ -32,8 +32,8 @@ Still learning. Always shipping.
 
 ## Currently
 
-- 🟢 **Learning:** Express.js,MongoDB,PostgreSQL
-- 🔨 **Building:** Social Media Website
+- 🟢 **Learning:** DSA
+- 🔨 **Building:** Youtube clone
 - 👀 **Open to:** Internships & other frontend roles
 
 ---
