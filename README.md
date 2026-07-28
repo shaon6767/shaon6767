@@ -33,8 +33,8 @@ My goal is to grow into a role where I own features from design through deployme
 ---
 
 ## Currently
-- 🟢 **Learning:** System design & MongoDB Associate Developer certification
-- 🔨 **Building:** JobTrackr — job application tracker (Next.js, TypeScript, Drizzle ORM, PostgreSQL)
+- 🟢 **Learning:** DSA
+- 🔨 **Building:** YouTube clone
 - 👀 **Open to:** Full-stack, frontend & backend developer roles
 
 ---
