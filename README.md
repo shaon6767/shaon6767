@@ -10,9 +10,7 @@ Open to opportunities · Learning every day
 ---
 
 ## About me
-I'm a full-stack developer who builds products end to end — from the interface a user touches to the backend and database that power it.
-I care about writing code that works reliably in production, not just on localhost, and I put real effort into performance and clean architecture rather than just getting things to run.
-My goal is to grow into a role where I own features from design through deployment, and keep sharpening how I build scalable, maintainable software.
+I build products end to end, from the interface you click through to the backend and database running underneath it. Production is where I care about the work, not just getting it to run on my laptop, so I put real time into performance and clean architecture. Long term, I want to own features from design through deployment and keep getting better at building software that scales.
 
 ---
 
