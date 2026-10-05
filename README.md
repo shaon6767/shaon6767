@@ -31,8 +31,7 @@ I build products end to end, from the interface you click through to the backend
 ---
 
 ## Currently
-- 🟢 **Learning:** DSA
-- 🔨 **Building:** YouTube clone
+- 🟢 **Learning:** DSA & Computer Networking
 - 👀 **Open to:** Full-stack, frontend & backend developer roles
 
 ---
