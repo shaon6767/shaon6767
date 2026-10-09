@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hey, I'm Shawon Chowdhury 👋
-**Full-Stack Developer (MERN & Next.js)**
+**Full-Stack Developer (MERN, TypeScript & Next.js)**
 Open to opportunities · Learning every day
 
 </div>
@@ -10,7 +10,7 @@ Open to opportunities · Learning every day
 ---
 
 ## About me
-I build products end to end, from the interface you click through to the backend and database running underneath it. Production is where I care about the work, not just getting it to run on my laptop, so I put real time into performance and clean architecture. Long term, I want to own features from design through deployment and keep getting better at building software that scales.
+Full-stack developer skilled in the MERN stack, Next.js, and TypeScript, with a backend focus on authentication, caching, webhook security, and payments. Led a 4-member team to deliver live web applications during an internship, and is expanding into AI-powered application development.
 
 ---
 
